@@ -9,6 +9,6 @@
 ## Connect with me
 
 - Instagram
-- Linkedin
-- Facebook
 - Twitter
+- Facebook
+- Linkedin
