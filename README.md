@@ -7,3 +7,8 @@
 - Fun Fact-
 
 ## Connect with me
+
+- Instagram
+- Linkedin
+- Facebook
+- Twitter
