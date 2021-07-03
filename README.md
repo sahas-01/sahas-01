@@ -15,8 +15,7 @@
 
 ## Learning and working with
 
-<img src="https://hackr.io/tutorials/learn-html-5/logo/logo-html-5?ver=1587977020" width="110" height="120">
-
+<img src="https://cdn.iconscout.com/icon/free/png-512/html5-10-569380.png" width="70" height="80"> <img src="https://cdn.iconscout.com/icon/free/png-512/css3-9-1175237.png" width="70" height="70"> 
 
 
 
