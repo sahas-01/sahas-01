@@ -35,6 +35,11 @@
 <img src="https://camo.githubusercontent.com/1b938a8770774c11ebdf27c1c371d173a48c6f0504cc224a8a6b47d5a8a332ac/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d6f6e676f64622f6d6f6e676f64622d69636f6e2e737667" width="70" height="70">
 <img src="https://camo.githubusercontent.com/19ab6bd09ac44d51db909362f5b77c47ab5679fda118a0bb5bfccf72cfc2a0d1/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d7973716c2f6d7973716c2d617232312e737667" width="70" height="70">
 <img src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" width="70" height="70">
+<img src="https://iconape.com/wp-content/png_logo_vector/flutter-logo.png" width="70" height="70">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/616px-Adobe_Photoshop_CC_icon.svg.png" width="70" height="70">
+<img src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" width="70" height="70">
+<img src="https://iconape.com/wp-content/png_logo_vector/github-circle-coreui-icons-v1-0-0.png" width="70" height="70">
+<img src="https://cdn-images-1.medium.com/max/1200/1*DG5eBssbHsAyh_RtTRz8mQ@2x.png" width="70" height="70">
   
 
   
@@ -45,7 +50,7 @@
 
 ## Let's connect!
 
-- Instagram
+- <img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2016/240/iconmonstr-instagram-11.png" width="50" height="50">
 - Twitter
 - Facebook
 - Linkedin
