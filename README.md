@@ -12,7 +12,7 @@
 
 </p>
 
-## <img src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" width="30" height="30"> About me 
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="50" height="30"> About me 
 
 - 🌱I'm currently learning Web Development 
 - 📖Pursuing Computer Science & Engineering at VIT, Vellore
@@ -21,7 +21,7 @@
 - 📫Reach out to me: sahasvivek001@gmail.com
 - ⚡Fun Fact-I like to say fun fact before telling the fun fact
 
-## <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/43172b22243917.5630f07edae58.gif" width="30" height="30"> Learning and working with
+## <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/43172b22243917.5630f07edae58.gif" width="30" height="30"> &nbsp;Learning and working with
 
 <p float="left">
 
@@ -45,7 +45,7 @@
   
 </p>
 
-## <img src="https://camo.githubusercontent.com/5fca3db52c463447c36cbf864b01eac247219e56ce24dc0169a66c62ae53a481/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966" width="25" height="25"> My Github stats
+## <img src="https://camo.githubusercontent.com/5fca3db52c463447c36cbf864b01eac247219e56ce24dc0169a66c62ae53a481/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966" width="25" height="25"> &nbsp; My Github stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahas-01&show_icons=true&theme=radical)  
 
@@ -59,7 +59,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api/)
 
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="30" height="30"> Let's connect!
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="40" height="30"> Let's connect!
 
 
 <a href="https://www.linkedin.com/in/sahas-vivek-9217801a0/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="30" height="30"></a> &nbsp;
