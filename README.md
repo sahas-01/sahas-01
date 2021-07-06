@@ -62,5 +62,9 @@
 ## Let's connect!
 
 
-<a href="https://www.linkedin.com/in/sahas-vivek-9217801a0/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="30" height="30"></a> 
-<a href="https://twitter.com/SahasVivek7"><img src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/743px-Twitter_bird_logo_2012.svg.png" width="30" height="30"></a>
+<a href="https://www.linkedin.com/in/sahas-vivek-9217801a0/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="30" height="30"></a> &nbsp;
+<a href="https://twitter.com/SahasVivek7"><img src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/743px-Twitter_bird_logo_2012.svg.png" width="30" height="30"></a> &nbsp;
+<a href="https://www.instagram.com/sahas_01/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/2048px-Instagram.svg.png" width="30" height="30"></a>
+<a href="https://www.facebook.com/sahas.vivek"><img src="https://www.logo.wine/a/logo/Facebook/Facebook-f_Logo-Blue-Logo.wine.svg" width="35" height="35"></a>
+<a href="https://www.hackerrank.com/sahasvivek001"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="35" height="35"></a>
+
