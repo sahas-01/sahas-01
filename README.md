@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hey there!👋 I am Sahas Vivek
+# Hey there!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" height="30">  I am Sahas Vivek
 ### Budding developer & a tech enthusiast
   
  </div>
