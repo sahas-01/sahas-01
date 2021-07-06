@@ -12,7 +12,7 @@
 
 </p>
 
-## About me 
+## <img src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" width="30" height="30"> About me 
 
 - 🌱I'm currently learning Web Development 
 - 📖Pursuing Computer Science & Engineering at VIT, Vellore
@@ -21,7 +21,7 @@
 - 📫Reach out to me: sahasvivek001@gmail.com
 - ⚡Fun Fact-I like to say fun fact before telling the fun fact
 
-## Learning and working with
+## <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/43172b22243917.5630f07edae58.gif" width="30" height="30"> Learning and working with
 
 <p float="left">
 
@@ -45,7 +45,7 @@
   
 </p>
 
-## <img src="https://camo.githubusercontent.com/5fca3db52c463447c36cbf864b01eac247219e56ce24dc0169a66c62ae53a481/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966" width="25" height="25"> Github stats
+## <img src="https://camo.githubusercontent.com/5fca3db52c463447c36cbf864b01eac247219e56ce24dc0169a66c62ae53a481/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966" width="25" height="25"> My Github stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahas-01&show_icons=true&theme=radical)  
 
@@ -53,18 +53,20 @@
 
 
 
-## Here's a joke for you
+## <img src="https://media.tenor.com/images/702ade9ab5898fc5333023f6bca44541/tenor.gif" width="30" height="30"> Here's a joke for you
 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api/)
 
 
-## Let's connect!
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="30" height="30"> Let's connect!
 
 
 <a href="https://www.linkedin.com/in/sahas-vivek-9217801a0/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="30" height="30"></a> &nbsp;
 <a href="https://twitter.com/SahasVivek7"><img src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/743px-Twitter_bird_logo_2012.svg.png" width="30" height="30"></a> &nbsp;
-<a href="https://www.instagram.com/sahas_01/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/2048px-Instagram.svg.png" width="30" height="30"></a>
+<a href="https://www.instagram.com/sahas_01/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/2048px-Instagram.svg.png" width="30" height="30"></a> &nbsp;
 <a href="https://www.facebook.com/sahas.vivek"><img src="https://www.logo.wine/a/logo/Facebook/Facebook-f_Logo-Blue-Logo.wine.svg" width="35" height="35"></a>
-<a href="https://www.hackerrank.com/sahasvivek001"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="35" height="35"></a>
+<a href="https://www.hackerrank.com/sahasvivek001"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="35" height="35"></a> 
+<a href="https://www.codechef.com/users/sahas_01"><img src="https://icons-for-free.com/iconfiles/png/512/codechef-1324440139527402917.png" width="30" height="30"></a>
+
 
