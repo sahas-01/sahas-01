@@ -1,12 +1,20 @@
 
+<div align="center">
+
 # Hey there!👋 I am Sahas Vivek
+### Budding developer & a tech enthusiast
+  
+ </div>
 
-![Alt Text](https://github.com/sahas-01/Sahas-README/blob/master/Programmer.gif)
+<p align="center">
 
+<img src="https://github.com/sahas-01/Sahas-README/blob/master/Programmer.gif"/>
+
+</p>
 
 ## About me 
 
-- 💻I'm a Web Developer from India 
+- 🌱I'm currently learning Web Development 
 - 📖Pursuing Computer Science & Engineering at VIT, Vellore
 - 🤙I'm looking to collaborate on cool projects and take part in hackathons
 - 😇Looking for help with blockchain technology
@@ -24,6 +32,10 @@
 <img src="https://camo.githubusercontent.com/fac0ce5dcaa1ab86ee0141b574fd7d7ddd10d354419b873752cdc61c3d4e2d78/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a71756572792f6a71756572792d766572746963616c2e737667" width="70" height="70">
 <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" width="70" height="70">
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="70" height="70">
+<img src="https://camo.githubusercontent.com/1b938a8770774c11ebdf27c1c371d173a48c6f0504cc224a8a6b47d5a8a332ac/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d6f6e676f64622f6d6f6e676f64622d69636f6e2e737667" width="70" height="70">
+<img src="https://camo.githubusercontent.com/19ab6bd09ac44d51db909362f5b77c47ab5679fda118a0bb5bfccf72cfc2a0d1/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d7973716c2f6d7973716c2d617232312e737667" width="70" height="70">
+<img src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" width="70" height="70">
+  
 
   
 </p>
