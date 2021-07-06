@@ -62,5 +62,5 @@
 ## Let's connect!
 
 
-<a href="https://www.linkedin.com/in/sahas-vivek-9217801a0/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="30" height="30"></a>
-<a href="https://twitter.com/SahasVivek7"><img src="https://image.pngaaa.com/958/615958-middle.png" width="30" height="30"></a>
+<a href="https://www.linkedin.com/in/sahas-vivek-9217801a0/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="30" height="30"></a> 
+<a href="https://twitter.com/SahasVivek7"><img src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/743px-Twitter_bird_logo_2012.svg.png" width="30" height="30"></a>
