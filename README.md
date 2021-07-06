@@ -45,12 +45,19 @@
   
 </p>
 
-## Random joke
+## <img src="https://camo.githubusercontent.com/5fca3db52c463447c36cbf864b01eac247219e56ce24dc0169a66c62ae53a481/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966" width="25" height="25"> Github stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahas-01&show_icons=true&theme=radical)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahas-01&langs_count=5&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+## Here's a random joke for you
+
+
+![Jokes Card](https://readme-jokes.vercel.app/api/)
+
 
 
 ## Let's connect!
-
-- <img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2016/240/iconmonstr-instagram-11.png" width="50" height="50">
-- Twitter
-- Facebook
-- Linkedin
