@@ -59,7 +59,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api/)
 
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="40" height="30"> Let's connect!
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="35" height="35"> Let's connect!
 
 
 <a href="https://www.linkedin.com/in/sahas-vivek-9217801a0/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="30" height="30"></a> &nbsp;
