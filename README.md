@@ -14,11 +14,11 @@
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="50" height="30"> About me 
 
-- 🌱I'm currently learning Web Development 
+- 🌱I'm currently learning **REACTJS
 - 📖Pursuing Computer Science & Engineering at VIT, Vellore
 - 🤙I'm looking to collaborate on cool projects and take part in hackathons
 - 😇Looking for help with blockchain technology
-- 📫Reach out to me: sahasvivek001@gmail.com
+- 📫Reach out to me: **sahasvivek001@gmail.com
 - ⚡Fun Fact-I like to say fun fact before telling the fun fact
 
 ## <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/43172b22243917.5630f07edae58.gif" width="30" height="30"> &nbsp;Learning and working with
@@ -40,7 +40,7 @@
 <img src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" width="70" height="70">
 <img src="https://iconape.com/wp-content/png_logo_vector/github-circle-coreui-icons-v1-0-0.png" width="70" height="70">
 <img src="https://cdn-images-1.medium.com/max/1200/1*DG5eBssbHsAyh_RtTRz8mQ@2x.png" width="70" height="70">
-  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/>
 
   
 </p>
