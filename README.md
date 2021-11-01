@@ -2,7 +2,7 @@
 <div align="center">
 
 # Hey there!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" height="30">  I am Sahas Vivek
-### Budding developer & a tech enthusiast
+### A Sophomore at VIT, Vellore.
   
  </div>
 
@@ -14,7 +14,7 @@
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="50" height="30"> About me 
 
-- 🌱I'm currently learning **REACT , NEXT**
+- 🌱I'm currently learning Blockchain and Solidity.
 - 📖Pursuing Computer Science & Engineering at VIT, Vellore
 - 🤙I'm looking to collaborate on cool projects and take part in hackathons
 - 😇Looking for help with blockchain technology
