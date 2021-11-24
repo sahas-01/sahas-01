@@ -14,12 +14,12 @@
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="50" height="30"> About me 
 
-- 🌱I'm currently learning Blockchain and Solidity.
+- 🌱I'm currently learning Solidity and exploring Blockchain & its applications.
 - 📖Pursuing Computer Science & Engineering at VIT, Vellore
 - 🤙I'm looking to collaborate on cool projects and take part in hackathons
-- 😇Looking for help with blockchain technology
+- 😇Looking for help with Web3. 
 - 📫Reach out to me: **sahasvivek001@gmail.com**
-- ⚡Fun Fact-I like to say fun fact before telling the fun fact
+- ⚡Fun Fact-A commit a day keeps the bugs away😏
 
 ## <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/43172b22243917.5630f07edae58.gif" width="30" height="30"> &nbsp;Learning and working with
 
@@ -50,7 +50,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahas-01&show_icons=true&theme=radical)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahas-01&langs_count=5&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
