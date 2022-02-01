@@ -42,7 +42,8 @@
 <img src="https://cdn-images-1.medium.com/max/1200/1*DG5eBssbHsAyh_RtTRz8mQ@2x.png" width="70" height="70">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/>
 <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="70" height="70"/>
-<img src="https://download.logo.wine/logo/Solidity/Solidity-Logo.wine.png" alt="solidity" width="90" height="70" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png" alt="solidity" width="70" height="70" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="solidity" width="70" height="70" />
   
 </p>
 
