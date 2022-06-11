@@ -14,10 +14,9 @@
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="50" height="30"> About me 
 
-- 🌱I'm currently learning Solidity and exploring Blockchain & its applications.
+- 🌱I'm currently working on some cool **MERN Stack** projects.
 - 📖Pursuing Computer Science & Engineering at VIT, Vellore
-- 🤙I'm looking to collaborate on cool projects and take part in hackathons
-- 😇Looking for help with Web3. 
+- 🤙I'm looking to collaborate on cool projects and take part in hackathons 
 - 📫Reach out to me: **sahasvivek001@gmail.com**
 - ⚡Fun Fact-A commit a day keeps the bugs away😏
 
