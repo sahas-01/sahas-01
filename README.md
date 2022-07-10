@@ -3,12 +3,6 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views</h3> <img src="https://komarev.com/ghpvc/?username=sahas-01&label=Profile%20views&color=0e75b6&style=for-the-badge"
-    alt="sahas-01" /> 
-</p>
-
-<br>
-
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"></p>
 
 <h3 align="left">👨‍💻About Me</h3>
@@ -72,7 +66,10 @@
 ![Anurag's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahas-01&theme=radical&show_icons=true)
 
 
+### 😝Here's a joke for you
 
+
+![Jokes Card](https://readme-jokes.vercel.app/api/)
 
 
 <h3 align="left">🌐Connect with me</h3>
@@ -96,10 +93,7 @@
 </p>
 
 
-### 😝Here's a joke for you
 
-
-![Jokes Card](https://readme-jokes.vercel.app/api/)
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
