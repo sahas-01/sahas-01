@@ -1,5 +1,5 @@
 <h1 align="center">Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25" height="25">, I am Sahas Vivek</h1>
-<h2 align="center">Student at VIT, Vellore🌟</h2>
+<h2 align="center">Student at VIT, Vellore</h2>
 
 <br>
 
@@ -11,7 +11,7 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"></p>
 
-<h3 align="left">About Me</h3>
+<h3 align="left">👨‍💻About Me</h3>
 
 - 🌱I'm currently working on some cool **MERN Stack** projects.
 - 🤙I'm looking to collaborate on cool projects and take part in hackathons 
@@ -21,7 +21,7 @@
 <br>
 
 
-### My Tech Stack
+### 💻My Tech Stack
 
 <p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -50,7 +50,7 @@
 
 
 
-### Languages & Tools
+### ⚙️Languages & Tools
 <p align="left">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -63,7 +63,7 @@
 </p>
 
 
-<h3 align="left">Here's some stats!</h3>
+<h3 align="left">📊Here's some stats!</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahas-01&show_icons=true&theme=radical) 
 
@@ -75,7 +75,7 @@
 
 
 
-<h3 align="left">Connect with me</h3>
+<h3 align="left">🌐Connect with me</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sahas-vivek-9217801a0/" target="blank"><img align="center"
@@ -96,10 +96,14 @@
 </p>
 
 
-### Here's a joke for you
+### 😝Here's a joke for you
 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api/)
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
+
 
 
 
