@@ -90,15 +90,10 @@
  <a href="https://twitter.com/SahasVivek7" target="blank"><img align="center"
       src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
       alt="sahas vivek"></a> 
+ <a href="mailto:sahasvivek001@gmail.com"><img align="center"
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="sahas vivek"></a> 
 </p>
-
-
-<br>
-
-
-
-
-
 
 
 ### Here's a joke for you
