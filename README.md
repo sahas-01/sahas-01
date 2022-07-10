@@ -7,8 +7,9 @@
 
 <h3 align="left">👨‍💻About Me</h3>
 
-- 🌱I'm currently working on some cool **MERN Stack** projects.
-- 🤙I'm looking to collaborate on cool projects and take part in hackathons 
+- 🌱I'm currently learning and enhancing my skills in **Data Structures & Algorithms**.
+- 💪Also Working on some **MERN Stack** Projects
+- 🤙Looking to collaborate on cool projects and take part in hackathons 
 - 📫Reach out to me: **sahasvivek001@gmail.com**
 - ⚡Fun Fact-A commit a day keeps the bugs away😏
 
