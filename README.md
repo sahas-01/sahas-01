@@ -1,29 +1,50 @@
+<h1 align="center">Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25" height="25">, I am Sahas Vivek</h1>
+<h2 align="center">Student at VIT, Vellore🌟</h2>
 
-<div align="center">
+<br>
 
-# Hey there!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" height="30">  I am Sahas Vivek
-### A Sophomore at VIT, Vellore.
-  
- </div>
-
-<p align="center">
-
-<img src="https://github.com/sahas-01/Sahas-README/blob/master/Programmer.gif"/>
-
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=sahas-01&label=Profile%20views&color=0e75b6&style=for-the-badge"
+    alt="sahas-01" /> 
 </p>
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="50" height="30"> About me 
+<br>
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"></p>
+
+<h3 align="left">About Me</h3>
 
 - 🌱I'm currently working on some cool **MERN Stack** projects.
-- 📖Pursuing Computer Science & Engineering at VIT, Vellore
 - 🤙I'm looking to collaborate on cool projects and take part in hackathons 
 - 📫Reach out to me: **sahasvivek001@gmail.com**
 - ⚡Fun Fact-A commit a day keeps the bugs away😏
 
-## <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/43172b22243917.5630f07edae58.gif" width="30" height="30"> &nbsp;Learning and working with
+<br>
 
-<p float="left">
+<h3 align="left">Connect with me</h3>
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/sahas-vivek-9217801a0/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a> 
+  <a href="https://www.instagram.com/sahas_01/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="_._.adam._" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/sahas.vivek" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="adam pithen wala" height="30" width="40" /></a> 
+  <a href="https://www.hackerrank.com/sahasvivek001" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+      alt="adampithewan" height="30" width="40" /></a> 
+ <a href="https://twitter.com/SahasVivek7" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="adampithewan" height="30" width="40" /></a> 
+</p>
+
+
+<br>
+
+<h3 align="left">Tech Stack</h3>
+<p align="left">
 <img src="https://camo.githubusercontent.com/bea3c45894fe8d810cfef5e0ba759d28033e0a534186ea1c1b71c70e1a57554f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f77335f68746d6c352f77335f68746d6c352d69636f6e2e737667" width="70" height="70">
 <img src="https://cdn.iconscout.com/icon/free/png-512/css3-9-1175237.png" width="70" height="70">  
 <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" width="70" height="70"> 
@@ -46,7 +67,7 @@
   
 </p>
 
-## <img src="https://camo.githubusercontent.com/5fca3db52c463447c36cbf864b01eac247219e56ce24dc0169a66c62ae53a481/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966" width="25" height="25"> &nbsp; My Github stats
+<h3 align="left">My Github stats</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahas-01&show_icons=true&theme=radical)  
 
@@ -58,15 +79,5 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api/)
 
-
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="35" height="35"> Let's connect!
-
-
-<a href="https://www.linkedin.com/in/sahas-vivek-9217801a0/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="30" height="30"></a> &nbsp;
-<a href="https://twitter.com/SahasVivek7"><img src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/743px-Twitter_bird_logo_2012.svg.png" width="30" height="30"></a> &nbsp;
-<a href="https://www.instagram.com/sahas_01/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/2048px-Instagram.svg.png" width="30" height="30"></a> &nbsp;
-<a href="https://www.facebook.com/sahas.vivek"><img src="https://www.logo.wine/a/logo/Facebook/Facebook-f_Logo-Blue-Logo.wine.svg" width="35" height="35"></a>
-<a href="https://www.hackerrank.com/sahasvivek001"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="35" height="35"></a> 
-<a href="https://www.codechef.com/users/sahas_01"><img src="https://icons-for-free.com/iconfiles/png/512/codechef-1324440139527402917.png" width="30" height="30"></a>
 
 
