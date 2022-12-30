@@ -1,4 +1,4 @@
-<h1 align="center">Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25" height="25">, I am Sahas Vivek</h1>
+<h1 align="center">Hey there👋, I am Sahas Vivek</h1>
 <h2 align="center">Student at VIT, Vellore</h2>
 
 <br>
