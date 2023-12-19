@@ -7,8 +7,7 @@
 
 <h3 align="left">👨‍💻About Me</h3>
 
-- 🌱I'm currently learning **NextJS**.
-- 💪Also Working on some **MERN Stack** Projects
+- 💻Full stack developer with proficiency in **NextJS, ReactJS, NodeJS, TailwindCSS**
 - 🤙Looking to collaborate on cool projects and take part in hackathons 
 - 📫Reach out to me: **sahasvivek001@gmail.com**
 - ⚡Fun Fact-A commit a day keeps the bugs away😏
