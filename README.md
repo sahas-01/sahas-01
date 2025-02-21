@@ -1,5 +1,5 @@
 <h1 align="center">Hey there👋, I am Sahas Vivek</h1>
-<h2 align="center">Student at VIT, Vellore</h2>
+<h2 align="center">Graduated out of VIT, Vellore</h2>
 
 <br>
 
@@ -7,8 +7,7 @@
 
 <h3 align="left">👨‍💻About Me</h3>
 
-- 💻Full stack developer with proficiency in **NextJS, ReactJS, NodeJS, TailwindCSS**
-- 📑Currently learning Golang and Data Structures & Algorithms
+- 💻My speciality lies in crafting Frontend Code, but at times, I also handle Backend based on requirement.
 - 🤙Looking to collaborate on cool projects and take part in hackathons 
 - 📫Reach out to me: **sahasvivek001@gmail.com**
 - ⚡Fun Fact-A commit a day keeps the bugs away😏
